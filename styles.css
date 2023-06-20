@@ -1,0 +1,7 @@
+img {
+    width: 35px;
+}
+
+thead, tr:nth-child(even){
+    background-color: lightgray;
+}
